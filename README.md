@@ -8,4 +8,6 @@ The app is build on the plotly-dash framework. The model is loaded in and used i
 ![latteArtClassifier](https://user-images.githubusercontent.com/67821956/87681368-2b6e2900-c7b1-11ea-815a-77c1f4287682.gif)
 
 ## Grading scheme
-Since the single-node linear-activation output of the neural network is inherently continuous, multiple outputs were generated from the test-set. Through qualitative quantile analysis of the distribution of the outputs, each output could be discretised into bins corresponding to the their respective grades (A+ to F).
+Since the single-node linear-activation output of the neural network is inherently continuous, multiple outputs were generated from the test-set. 
+
+Through quantile analysis of the distribution of the outputs, each output could be discretised into bins corresponding to the their respective grades (A+ to F). These bins were qualitatively determined.
