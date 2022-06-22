@@ -1,7 +1,7 @@
 gunicorn
 matplotlib==3.2.2
 dash_html_components==1.0.3
-numpy==1.19.0
+numpy==1.22.0
 dash_bootstrap_components==0.10.3
 pandas==1.0.5
 tensorflow-cpu==2.2.0
