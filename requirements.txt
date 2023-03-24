@@ -4,7 +4,7 @@ dash_html_components==1.0.3
 numpy==1.19.0
 dash_bootstrap_components==0.10.3
 pandas==1.0.5
-tensorflow-cpu==2.2.0
+tensorflow-cpu==2.11.1
 dash_core_components==1.10.1
 requests==2.24.0
 dash==1.13.4
